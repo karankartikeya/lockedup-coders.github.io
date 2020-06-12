@@ -22,5 +22,13 @@
         "email":"vipul07.mathuria@gmail.com",
         "github_link":"https://github.com/vipul1999",
         "linkedIn_link":"https://www.linkedin.com/in/vipulkrishna/"
+    },
+    {
+        "name":"Karan Kartikeya",
+        "role":"contributor",
+        "profile_pic":"../assets/images/karan.jpg",
+        "email":"karankartikey72@gmail.com",
+        "github_link":"https://github.com/karankartikeya",
+        "linkedIn_link":"https://www.linkedin.com/in/karankartikeya/"
     }
 ]
